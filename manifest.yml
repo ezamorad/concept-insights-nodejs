@@ -1,7 +1,7 @@
 ---
 declared-services:
 - concept-insights-service:
-    type: concept_insights
+    label: concept_insights
     plan: free
 applications:
 - services:
