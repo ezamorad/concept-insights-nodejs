@@ -2,6 +2,10 @@
 
   The IBM Watson [Concept Insights][service_url] service links documents that you provide with a pre-existing graph of concepts based on Wikipedia (e.g. 'Solar Energy', 'Cognitive Systems', etc.). Two types of links are identified: explicit links when a document directly mentions a concept, and implicit links which connect your documents to relevant concepts that are not directly mentioned in them. Users of this service can also search for documents that are relevant to a concept or collection of concepts by exploring the explicit and implicit links.
 
+Give it a try! Click the button below to fork into IBM DevOps Services and deploy your own copy of this application on Bluemix.
+
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/concept-insights-nodejs.git)
+
 ## Getting Started
 
 1. Create a Bluemix Account
